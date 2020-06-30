@@ -1,2 +1,2 @@
 # practice-github-actions
-![hello-pusher](./workflows/hello-pusher/badge.svg)
+![hello-pusher](../../workflows/hello-pusher/badge.svg)
