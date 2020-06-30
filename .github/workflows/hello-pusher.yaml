@@ -7,7 +7,7 @@ jobs:
   greet:
     name: Greet to pusher
     runs-on: ubuntu-latest
-    output:
+    outputs:
       greet_text: ${{ steps.print_greet.outputs.text}}
     steps:
     - id: print_greet
